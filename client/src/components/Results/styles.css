@@ -1,0 +1,30 @@
+
+.card.mb-3.card-effect{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: transform  .2s;
+    border-radius: 5px;
+    cursor: pointer;;
+}
+
+.card.mb-3.card-effect:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  border-bottom: 2px solid #007bff;
+}
+button{
+    height:40px!important;
+}
+
+.card-title{
+  font-weight: bold!important;
+  font-size: 22px!important;
+  font-family: initial;
+}
+
+.card-text{
+  font-size: 18px;
+  font-family: initial;
+}
+
+.btn.badge-pill.btn-outline-warning.mt-3.ml-3{
+  font-weight: bold;
+}

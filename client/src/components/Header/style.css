@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image: url('../../assets/images/libback.jpg');
+    margin-bottom: 0px!important;
+    margin-top: 50px!important;
+    
+}
+.container-top{
+   top:50
+}
+
+@media (min-width: 576px){
+    .jumbotron {
+        padding: 8rem 22rem !important;
+    }
+}
